@@ -1,0 +1,18 @@
+Command to create virtual environment:-
+py -3 -m venv venv (Second venv is the name of environment we can give any name of our choice)
+
+Command to select python interpreter in virtual environment:-
+.\venv\Scripts\python.exe
+
+Command to activate the virtual environment:-
+venv\Scripts\activate.bat
+
+Command to run server:-
+uvicorn main:app --reload
+
+
+See about pydantic model
+
+
+5:25:00 listen to better understand sqlchemy and how query work
+5:28:30 Listen
